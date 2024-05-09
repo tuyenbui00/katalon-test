@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_H Ch Minh_icon-search</name>
+   <tag></tag>
+   <elementGuidId>2f1593fb-b9b9-4d83-8dee-8c0e8a9373d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon-search</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=banner >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f2f8d011-4aa7-4710-804c-d1546aed82a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-search</value>
+      <webElementGuid>adea4eed-fa66-4ffb-b68f-b5e0d91870b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header&quot;]/div[@class=&quot;header__top&quot;]/div[1]/form[@class=&quot;header__search&quot;]/button[1]/i[@class=&quot;icon-search&quot;]</value>
+      <webElementGuid>3a463b6b-8c71-4396-ae16-01747a41b949</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>63bb7527-f310-454a-b0b9-710269333a1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

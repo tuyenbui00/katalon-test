@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_APPLE</name>
+   <tag></tag>
+   <elementGuidId>0c847911-a3fc-4639-9775-bb4d6c3fd255</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;ga('send', 'event', 'Header ', 'Click Navigation Bar', 'APPLE');&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;APPLE&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; APPLE&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2c394abd-aeba-4d66-be33-b33f4bd46871</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>b1af6c25-c83c-4ef6-a3a9-cb89e41dfe25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/apple</value>
+      <webElementGuid>6c7f8f28-ead3-43ec-8daf-27811e1a0aad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>APPLE</value>
+      <webElementGuid>a052eda4-d069-4678-880d-9fb1c3c9483f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>ga('send', 'event', 'Header ', 'Click Navigation Bar', 'APPLE');</value>
+      <webElementGuid>10e0ffc9-8fac-40e5-a29a-379460a237d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+ APPLE 
+</value>
+      <webElementGuid>d6a069d9-dce2-40aa-bd36-aeeca9ab23e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;fs-header&quot;]/nav[@class=&quot;fs-menu&quot;]/div[@class=&quot;f-wrap&quot;]/ul[@class=&quot;fs-mnul clearfix&quot;]/li[4]/a[1]</value>
+      <webElementGuid>38c42c4d-810a-4995-b437-e30e97f98d46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;ga('send', 'event', 'Header ', 'Click Navigation Bar', 'APPLE');&quot;]</value>
+      <webElementGuid>01be2b99-add1-43b3-ac26-1ff563c91670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Samsung Galaxy Tab A9 Wifi 128GB'])[1]/following::a[2]</value>
+      <webElementGuid>500ea5e1-fcd7-4168-aa07-a230a4b2f1b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iPad Gen 9 2021 10.2 inch WiFi 64GB'])[1]/following::a[4]</value>
+      <webElementGuid>3e889ace-7e34-45c1-9e8d-40da129123b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iPhone'])[1]/preceding::a[1]</value>
+      <webElementGuid>d696170a-cccd-4a5c-84a4-5e1b83bb8077</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iPad'])[1]/preceding::a[2]</value>
+      <webElementGuid>92b2a7dd-0c9f-44e8-8518-3315be4c9ff2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='APPLE']/parent::*</value>
+      <webElementGuid>0c264661-f28a-4a2c-9e2d-93096e581cb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/apple')])[5]</value>
+      <webElementGuid>f7502e5d-98cc-4724-a03e-3f67c5f04eea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/ul/li[4]/a</value>
+      <webElementGuid>9148a663-bc29-4c2b-82ab-724a74025756</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/apple' and @title = 'APPLE' and (text() = '
+ APPLE 
+' or . = '
+ APPLE 
+')]</value>
+      <webElementGuid>cca0f6c1-ef04-43a7-b4a0-dd22c4f47c68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
