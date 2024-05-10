@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>open gg web</name>
+   <name>Visual testing checkpoints</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>f192229c-25da-4b26-8ef4-7193aee07289</testSuiteGuid>
+   <testSuiteGuid>25cdb96a-51a5-48e6-bf75-9fcef06fd307</testSuiteGuid>
    <testCaseLink>
-      <guid>3c15c190-342c-49ec-9aec-9644b4910f23</guid>
+      <guid>f93b3da9-d84a-4b1f-9adf-787488006c2e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/WEB/open gg web 10</testCaseId>
+      <testCaseId>Test Cases/WEB/TC04- Visual testing</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

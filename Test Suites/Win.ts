@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>open gg web</name>
+   <name>Win</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>f192229c-25da-4b26-8ef4-7193aee07289</testSuiteGuid>
+   <testSuiteGuid>df73f737-97ec-4d40-8fbe-9315d10e8cda</testSuiteGuid>
    <testCaseLink>
-      <guid>3c15c190-342c-49ec-9aec-9644b4910f23</guid>
+      <guid>1f8c4a07-3ffb-4269-b9ed-2d432b965d4a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/WEB/open gg web 10</testCaseId>
+      <testCaseId>Test Cases/WINDOWN/Win01</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

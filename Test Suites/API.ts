@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>open gg web</name>
+   <name>API</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>f192229c-25da-4b26-8ef4-7193aee07289</testSuiteGuid>
+   <testSuiteGuid>e67f237f-a0ec-4203-afcd-580dc143f579</testSuiteGuid>
    <testCaseLink>
-      <guid>3c15c190-342c-49ec-9aec-9644b4910f23</guid>
+      <guid>b01d6992-55f5-4cff-8d50-5166dfaae11b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/WEB/open gg web 10</testCaseId>
+      <testCaseId>Test Cases/API/API01</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
